@@ -1,4 +1,4 @@
-##  Fala, devs(ou não)!!
+##  Olá, devs(ou não)!!
 ### Eu sou Douglas da Silva! 
 - Tenho 30 anos 👴🏿
 - Morador de Caucaia, Ceará 💛💚🇧🇷
