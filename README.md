@@ -5,7 +5,7 @@
 - Estou no 1º semestre de Análise e Desenvolvimento de Sistemas 💻
 - Há mais de 10 anos trabalhei como músico e produtor cultural 🎸🎼
 - Nos últimos meses fiz minha transição de carreira para a área de tecnologia 🚀
-- Participo de um projeto voluntário com a empresa Soluções LB voltado para o back-end(C#️⃣ e JAVA☕)
+- Participo de um projeto como estagiário na empresa Soluções LB voltado para o back-end(C#️⃣ e JAVA☕)
 - Estou em busca da minha primeira vaga como desenvolvedor backend JR 👶🏾
 
 ### Tecnologias e ferramentas que estou aprimorando meus conhecimentos
