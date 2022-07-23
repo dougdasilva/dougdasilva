@@ -2,11 +2,9 @@
 ### Eu sou Douglas da Silva! 
 - Tenho 30 anos 👴🏿
 - Morador de Caucaia, Ceará 💛💚🇧🇷
-- Estou no 1º semestre de Análise e Desenvolvimento de Sistemas 💻
+- Estou no 2º semestre de Análise e Desenvolvimento de Sistemas 💻
 - Há mais de 10 anos trabalhei como músico e produtor cultural 🎸🎼
 - Nos últimos meses fiz minha transição de carreira para a área de tecnologia 🚀
-- Participo de um projeto como estagiário na empresa Soluções LB voltado para o back-end(C#️⃣ e JAVA☕)
-- Estou em busca da minha primeira vaga como desenvolvedor backend JR 👶🏾
 
 ### Tecnologias e ferramentas que estou aprimorando meus conhecimentos:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"  width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
