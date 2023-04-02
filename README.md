@@ -1,4 +1,4 @@
-##  Olá, devs(ou não)!!
+##  Olá, tech recruiter's (ou não)!!
 ### Eu sou Douglas da Silva! 
 - Tenho 31 anos 👴🏿
 - Morador de Caucaia, Ceará 💛💚🇧🇷
