@@ -1,4 +1,4 @@
-### Oi, gente! Eu sou Douglas da Silva e conhece aqui um pouquinho de mim:
+### Oi, gente! Eu sou Douglas da Silva
 - Tenho 31 anos 👴🏿
 - Morador de Caucaia, Ceará 💛💚🇧🇷
 - Estou no 3º semestre de Análise e Desenvolvimento de Sistemas 💻
