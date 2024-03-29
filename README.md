@@ -1,8 +1,8 @@
 ### Oi, gente! Eu sou Douglas da Silva
-- Tenho 31 anos 👴🏿
+- Tenho 32 anos 👴🏿
 - Morador de Caucaia, Ceará 💛💚🇧🇷
-- Estou no 3º semestre de Análise e Desenvolvimento de Sistemas 💻
-- Atualmente Desenvolvedor JR do time de Data Capture na Lett 🚀
+- Estou no último semestre de Análise e Desenvolvimento de Sistemas 💻
+- Atualmente Desenvolvedor JR do time de Data Capture na Lett/Neogrid 🚀
 
 ### Vivência nas seguintes tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png"  width="40" height="40" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
