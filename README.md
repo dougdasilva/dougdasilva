@@ -1,6 +1,6 @@
 ### Oi, gente! Eu sou Douglas da Silva
 - Tenho 33 anos 👴🏿
-- Estou no último semestre de Análise e Desenvolvimento de Sistemas 💻
+- Graduado em Análise e Desenvolvimento de Sistemas 💻
 - Atualmente Desenvolvedor JR do time de Data Capture na Lett/Neogrid 🚀
 
 ### Vivência nas seguintes tecnologias:
