@@ -1,6 +1,5 @@
 ### Oi, gente! Eu sou Douglas da Silva
-- Tenho 32 anos 👴🏿
-- Morador de Caucaia, Ceará 💛💚🇧🇷
+- Tenho 33 anos 👴🏿
 - Estou no último semestre de Análise e Desenvolvimento de Sistemas 💻
 - Atualmente Desenvolvedor JR do time de Data Capture na Lett/Neogrid 🚀
 
