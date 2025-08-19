@@ -1,4 +1,4 @@
-### Oi, gente! Eu sou Douglas da Silva
+### Eu sou Douglas da Silva
 - Graduado em Análise e Desenvolvimento de Sistemas 💻
 - Atualmente Desenvolvedor JR do time de Data Capture na Lett/Neogrid 🚀
 
